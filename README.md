@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can never get any of this crap to work honesty it's such a hassle. Github, VSCode, literally any configuration for
 - any program ever, my own brain, and honestly it makes me sad. However, someday I shall imporve and seek vengence on all
-- those terrible programming realted things that have brought me strife. Someday...
+- those terrible programming related things that have brought me strife. Someday...
 
 <!---
 BigEasyBattles/BigEasyBattles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
